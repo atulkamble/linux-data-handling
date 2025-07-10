@@ -126,3 +126,13 @@ grep "500" access.log | wc -l
 
 Linux CLI is immensely powerful for data handling — whether for text manipulation, logs analysis, or data preparation for scripts and automation.
 
+## 👨‍💻 Author
+
+**Atul Kamble**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
+- 🐙 [GitHub](https://github.com/atulkamble)
+- 🐦 [X](https://x.com/Atul_Kamble)
+- 📷 [Instagram](https://www.instagram.com/atuljkamble)
+- 🌐 [Website](https://www.atulkamble.in)
+
